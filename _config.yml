@@ -1,5 +1,5 @@
 # main text of home
-name: Imdonguk
+name: woogie
 bio: Web FrontEnd Developer
 
 # twitter summary info
@@ -46,8 +46,8 @@ github: Imdonguk
 email: idw8157@naver.com
 
 authors:
-    Imdonguk:
-        name: Imdonguk
+    woogie:
+        name: woogie
         bio: Web FrontEnd Developer
         external-image: false
         picture: assets/images/profile.jpg
