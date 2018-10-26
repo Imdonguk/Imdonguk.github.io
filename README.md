@@ -6,7 +6,7 @@
 
 
 
-<p align="center">
-    <img src="./assets/screen-shot.png" />
+<p>
+    <img src=""https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png"" />
 </p>
 
