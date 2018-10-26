@@ -7,6 +7,6 @@
 
 
 <p>
-    <img src=""https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png"" />
+    <img src="https://github.com/Imdonguk/Imdonguk.github.io/blob/master/assets/screen-shot.png" />
 </p>
 
