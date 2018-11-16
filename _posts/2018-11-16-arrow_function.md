@@ -1,5 +1,5 @@
 ---
-title: "[개발로그]2018-11-16(금)"
+title: "function declaration과 Arrow Function의 this 스코프차이"
 layout: post
 date: 2018-11-16 17:30
 image: /assets/images/markdown.jpg
@@ -8,8 +8,6 @@ star: true
 category: blog
 author: woogie
 ---
-
-#자바스크립트 : function declaration과 Arrow Function의 this 스코프차이
 
 
 
@@ -21,7 +19,7 @@ ES6가 나옴에 따라 많은 변화가 생겼는데 그 중 하나인 `Arrow F
 
 
 
- ### 1. 사용법
+### 1. 사용법
 
 ~~~js
 //기존함수
